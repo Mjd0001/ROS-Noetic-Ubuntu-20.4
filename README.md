@@ -23,15 +23,15 @@ There are two options for creating a virtual hard disk. The first option is to s
 ![image](https://github.com/Mjd0001/ROS-Noetic-Ubuntu-20.4/assets/105239889/c39ac96f-ef28-4204-a242-e83fbf5d93d2)
 <br>
 In memory tab, based on your RAM number you have allocate RAM size, the half is enough.<br>
-![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/b4beeed0-84c3-4140-8492-d98eecc4dad1)
+![image](https://github.com/Mjd0001/ROS-Noetic-Ubuntu-20.4/assets/105239889/68d11864-8bf9-412d-89cd-b1e050b00f08)
 <br>
 In Processor tab, besed on your CORE number change the number of processor core, 2 is enough for me<br>
-![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/ba003fb9-5707-4483-bd33-886daf5f5e56)
+![image](https://github.com/Mjd0001/ROS-Noetic-Ubuntu-20.4/assets/105239889/9e0ffd07-ff80-4b25-b30f-54945f15f51c)
 <br>
 In New CD/DVD (SATA), select 'use ISO image file' and press 'Browse', and go to iso file of ubuntu 20.04 that we download it and choose it:<br>
-![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/345ca9c6-ff29-4e55-882f-3d66a08376a6)
+![image](https://github.com/Mjd0001/ROS-Noetic-Ubuntu-20.4/assets/105239889/d0aa9a82-743f-44c3-ac5c-34406067eeae)
 <br>
 8- finally click in close button and then Finish button.<br>
 you can change these settings when every you want by click on 'Edit virtual machine settings'. and to Run the virtual machine click on 'Play virtual Machine'<br>
-![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/9df4543f-d062-4c6a-86cc-c213fc5b4398)
+![image](https://github.com/Mjd0001/ROS-Noetic-Ubuntu-20.4/assets/105239889/a00eea17-150e-4422-9ee7-6aedac056f58)
 <br>
