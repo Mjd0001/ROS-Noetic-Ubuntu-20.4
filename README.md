@@ -1,4 +1,4 @@
-# ROS-Noetic-Ubuntu-20.4
+# ROS-Noetic-Ubuntu-20.04
 
 ## Step1: Ubuntu MATE 20.04 LTS Installation
 1- First download the image from here: https://cdimage.ubuntu.com/ubuntu-mate/releases/20.04/release/
@@ -65,7 +65,7 @@ you can change these settings when every you want by click on 'Edit virtual mach
 <br><br><br>
 ## Step3: ROS Noetic Installation
 follow the instractions here (copy and paste), and make sure to choose Desktop Install: <br>
-[https://wiki.ros.org/noetic/Installation/Ubuntu](https://wiki.ros.org/noetic/Installation/Ubuntu)
+https://wiki.ros.org/noetic/Installation/Ubuntu
 <br><br>
 __That's it!__
 <br>
